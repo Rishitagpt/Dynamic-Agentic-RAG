@@ -1,5 +1,4 @@
 ### Workflow Overview
-![2](https://github.com/Duvvuri-Srinath/Tech-Meet-Pathway/blob/pathway/Workflow.png?raw=true)
 
 
 ---
